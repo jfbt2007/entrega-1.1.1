@@ -4,7 +4,7 @@ html {
 }
 
 h1 {
-  font-size: 60px;
+  font-size: 20px;
   text-align: left;
 }
 
@@ -16,7 +16,7 @@ h2 {
 p, li {
   font-size: 16px;
   line-height: 4;
-  letter-spacing: 99px;
+  letter-spacing: 10px;
 }
 
 html {
@@ -32,7 +32,7 @@ body {
 }
 
 h1 {
-  margin: 900;
+  margin: 50;
   padding: 20px 0;
   color: #ff0060;
   text-shadow: 3px 3px 1px white;
@@ -40,5 +40,5 @@ h1 {
 
 img {
   display: block;
-  margin: 0 auto;
+  margin: 90 auto;
 }
