@@ -6,7 +6,11 @@ html {
 h1 {
   font-size: 20px;
   text-align: left;
-  background color: #0f0f0f;
+  background-color:#0f0f0f;
+    margin: 10;
+  padding: 20px 0;
+  color: #ff0060;
+  text-shadow: 3px 3px 1px white;
 }
 
 h2 {
@@ -31,14 +35,6 @@ body {
   padding: 0 20px 20px 20px;
   border: 10px solid black;
 }
-
-h1 {
-  margin: 10;
-  padding: 20px 0;
-  color: #ff0060;
-  text-shadow: 3px 3px 1px white;
-}
-
 img {
   display: block;
   margin: 50 auto;
